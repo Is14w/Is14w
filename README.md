@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Is14w.
-- You can also call me Alison. :D
-- 
-- 👀 I’m interested in object detection & deep learning.
-- 
-- 🌱 At present, I am studying communication engineering as an undergraduate in Jilin University.
+
 - All my repositories are private.
 
 <!---
