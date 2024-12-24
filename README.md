@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Is14w.
 
-- All my repositories are private.
+- It's not just code that appears here.
+- Most repositories are private so sry.
 
 <!---
 Is14w/Is14w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
