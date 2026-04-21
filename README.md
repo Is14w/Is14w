@@ -1,5 +1,8 @@
 ## 👋 Hi, I’m @Is14w.
 
+- I spent my undergraduate years in School of Communication Engineering, Jilin University.
+- And I'm ready to step in Southeast University School of Information Science and Engineering.
+
 - It's not just code that appears here.
 - Most repositories are private so sry.
 
